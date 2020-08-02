@@ -1,0 +1,331 @@
+[ {
+  "clients" : [ {
+    "nom" : "lotfi",
+    "prenom" : "fifi",
+    "adresse" : "casa",
+    "personid" : 1
+  } ],
+  "employe" : {
+    "nom" : "gerrar",
+    "prenom" : "asmaa",
+    "calendar" : 1588723200000,
+    "agence" : {
+      "adresse" : "Maroc,Casa",
+      "nom" : "agence casa",
+      "numero" : 1,
+      "bq" : { },
+      "employes" : null
+    },
+    "personid" : 1
+  },
+  "agence" : {
+    "adresse" : "Maroc,Casa",
+    "nom" : "agence casa",
+    "numero" : 1,
+    "bq" : { },
+    "employes" : null
+  },
+  "compteid" : 5
+}, {
+  "clients" : [ ],
+  "employe" : {
+    "nom" : "gerrar",
+    "prenom" : "asmaa",
+    "calendar" : 1588723200000,
+    "agence" : {
+      "adresse" : "Maroc,Casa",
+      "nom" : "agence casa",
+      "numero" : 1,
+      "bq" : { },
+      "employes" : null
+    },
+    "personid" : 1
+  },
+  "agence" : {
+    "adresse" : "Maroc,Casa",
+    "nom" : "agence casa",
+    "numero" : 1,
+    "bq" : { },
+    "employes" : null
+  },
+  "compteid" : 6
+}, {
+  "clients" : [ {
+    "nom" : "Rodrigo",
+    "prenom" : "jolio",
+    "adresse" : "Italy",
+    "personid" : 5
+  }, {
+    "nom" : "Naji",
+    "prenom" : "Zineb",
+    "adresse" : "SidiOthman",
+    "personid" : 7
+  } ],
+  "employe" : {
+    "nom" : "lolo",
+    "prenom" : "zozo",
+    "calendar" : 1588723200000,
+    "agence" : {
+      "adresse" : "Maroc,Casa",
+      "nom" : "agence casa",
+      "numero" : 1,
+      "bq" : { },
+      "employes" : null
+    },
+    "personid" : 5
+  },
+  "agence" : {
+    "adresse" : "Maroc,Casa",
+    "nom" : "agence casa",
+    "numero" : 1,
+    "bq" : { },
+    "employes" : null
+  },
+  "compteid" : 7
+}, {
+  "clients" : [ {
+    "nom" : "lotfi",
+    "prenom" : "fifi",
+    "adresse" : "casa",
+    "personid" : 6
+  } ],
+  "employe" : {
+    "nom" : "lotfi",
+    "prenom" : "firdaouss",
+    "calendar" : 1588809600000,
+    "agence" : {
+      "adresse" : "Maroc,Fez",
+      "nom" : "agence fez",
+      "numero" : 2,
+      "bq" : { },
+      "employes" : null
+    },
+    "personid" : 3
+  },
+  "agence" : {
+    "adresse" : "Maroc,Fez",
+    "nom" : "agence fez",
+    "numero" : 2,
+    "bq" : { },
+    "employes" : null
+  },
+  "compteid" : 8
+}, {
+  "clients" : [ {
+    "nom" : "lotif",
+    "prenom" : "fffff",
+    "adresse" : "iiiiiiiiii",
+    "personid" : 3
+  } ],
+  "employe" : {
+    "nom" : "elmansouri",
+    "prenom" : "said",
+    "calendar" : 1589587200000,
+    "agence" : {
+      "adresse" : "Maroc,Casa",
+      "nom" : "agence casa",
+      "numero" : 1,
+      "bq" : { },
+      "employes" : null
+    },
+    "personid" : 2
+  },
+  "agence" : {
+    "adresse" : "Maroc,Casa",
+    "nom" : "agence casa",
+    "numero" : 1,
+    "bq" : { },
+    "employes" : null
+  },
+  "compteid" : 9
+}, {
+  "clients" : [ {
+    "nom" : "LOLO",
+    "prenom" : "FIFI",
+    "adresse" : "FFFFFF",
+    "personid" : 1
+  }, {
+    "nom" : "fffff",
+    "prenom" : "nnnnnn",
+    "adresse" : "mlllll",
+    "personid" : 2
+  }, {
+    "nom" : "lotif",
+    "prenom" : "fffff",
+    "adresse" : "iiiiiiiiii",
+    "personid" : 3
+  } ],
+  "employe" : {
+    "nom" : null,
+    "prenom" : null,
+    "calendar" : 1590918154310,
+    "agence" : null,
+    "personid" : 0
+  },
+  "agence" : null,
+  "compteid" : 10
+}, {
+  "clients" : [ {
+    "nom" : "fffff",
+    "prenom" : "nnnnnn",
+    "adresse" : "mlllll",
+    "personid" : 2
+  }, {
+    "nom" : "lotif",
+    "prenom" : "fffff",
+    "adresse" : "iiiiiiiiii",
+    "personid" : 3
+  } ],
+  "employe" : {
+    "nom" : "elmansouri",
+    "prenom" : "said",
+    "calendar" : 1589587200000,
+    "agence" : {
+      "adresse" : "Maroc,Casa",
+      "nom" : "agence casa",
+      "numero" : 1,
+      "bq" : { },
+      "employes" : null
+    },
+    "personid" : 2
+  },
+  "agence" : {
+    "adresse" : "Maroc,Casa",
+    "nom" : "agence casa",
+    "numero" : 1,
+    "bq" : { },
+    "employes" : null
+  },
+  "compteid" : 11
+}, {
+  "clients" : [ {
+    "nom" : "lotif",
+    "prenom" : "fffff",
+    "adresse" : "iiiiiiiiii",
+    "personid" : 3
+  }, {
+    "nom" : "gggggggggg",
+    "prenom" : "asssssssssssssssss",
+    "adresse" : "mmmmmmmmm",
+    "personid" : 4
+  } ],
+  "employe" : {
+    "nom" : null,
+    "prenom" : null,
+    "calendar" : 1590918512489,
+    "agence" : null,
+    "personid" : 0
+  },
+  "agence" : null,
+  "compteid" : 12
+}, {
+  "clients" : [ {
+    "nom" : "LOLO",
+    "prenom" : "FIFI",
+    "adresse" : "FFFFFF",
+    "personid" : 1
+  }, {
+    "nom" : "lotif",
+    "prenom" : "fffff",
+    "adresse" : "iiiiiiiiii",
+    "personid" : 3
+  }, {
+    "nom" : "eeeeeeeeeee",
+    "prenom" : "aaaaaaaaaaaa",
+    "adresse" : "acccccccccccccccc",
+    "personid" : 5
+  } ],
+  "employe" : {
+    "nom" : "elmansouri",
+    "prenom" : "said",
+    "calendar" : 1589587200000,
+    "agence" : {
+      "adresse" : "Maroc,Casa",
+      "nom" : "agence casa",
+      "numero" : 1,
+      "bq" : { },
+      "employes" : null
+    },
+    "personid" : 2
+  },
+  "agence" : {
+    "adresse" : "Maroc,Casa",
+    "nom" : "agence casa",
+    "numero" : 1,
+    "bq" : { },
+    "employes" : null
+  },
+  "compteid" : 13
+}, {
+  "clients" : [ {
+    "nom" : "LOLO",
+    "prenom" : "FIFI",
+    "adresse" : "FFFFFF",
+    "personid" : 1
+  } ],
+  "employe" : {
+    "nom" : null,
+    "prenom" : null,
+    "calendar" : 1590927903663,
+    "agence" : null,
+    "personid" : 0
+  },
+  "agence" : null,
+  "compteid" : 14
+}, {
+  "clients" : [ {
+    "nom" : "lotif",
+    "prenom" : "fffff",
+    "adresse" : "iiiiiiiiii",
+    "personid" : 3
+  } ],
+  "employe" : {
+    "nom" : "llllll",
+    "prenom" : "mmmmmm",
+    "calendar" : 1589932800000,
+    "agence" : {
+      "adresse" : "MAroc,Tanger",
+      "nom" : "agence tanger",
+      "numero" : 5,
+      "bq" : { },
+      "employes" : null
+    },
+    "personid" : 6
+  },
+  "agence" : {
+    "adresse" : "MAroc,Tanger",
+    "nom" : "agence tanger",
+    "numero" : 5,
+    "bq" : { },
+    "employes" : null
+  },
+  "compteid" : 15
+}, {
+  "clients" : [ {
+    "nom" : "lotif",
+    "prenom" : "fffff",
+    "adresse" : "iiiiiiiiii",
+    "personid" : 3
+  } ],
+  "employe" : {
+    "nom" : "llllll",
+    "prenom" : "mmmmmm",
+    "calendar" : 1589932800000,
+    "agence" : {
+      "adresse" : "MAroc,Tanger",
+      "nom" : "agence tanger",
+      "numero" : 5,
+      "bq" : { },
+      "employes" : null
+    },
+    "personid" : 6
+  },
+  "agence" : {
+    "adresse" : "MAroc,Tanger",
+    "nom" : "agence tanger",
+    "numero" : 5,
+    "bq" : { },
+    "employes" : null
+  },
+  "compteid" : 16
+} ]

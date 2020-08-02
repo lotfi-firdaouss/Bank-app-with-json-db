@@ -1,0 +1,34 @@
+[ {
+  "clients" : [ {
+    "nom" : "LOLO",
+    "prenom" : "FIFI",
+    "adresse" : "FFFFFF",
+    "personid" : 1
+  }, {
+    "nom" : "lotfi",
+    "prenom" : "firdaouss",
+    "adresse" : "casa",
+    "personid" : 6
+  } ],
+  "employe" : {
+    "nom" : "llllll",
+    "prenom" : "mmmmmm",
+    "calendar" : 1589932800000,
+    "agence" : {
+      "adresse" : "MAroc,Tanger",
+      "nom" : "agence tanger",
+      "numero" : 5,
+      "bq" : { },
+      "employes" : null
+    },
+    "personid" : 6
+  },
+  "agence" : {
+    "adresse" : "MAroc,Tanger",
+    "nom" : "agence tanger",
+    "numero" : 5,
+    "bq" : { },
+    "employes" : null
+  },
+  "compteid" : 3
+} ]

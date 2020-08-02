@@ -1,0 +1,30 @@
+[ {
+  "clients" : [ {
+    "nom" : "LOLO",
+    "prenom" : "FIFI",
+    "adresse" : "FFFFFF",
+    "personid" : 1
+  } ],
+  "employe" : {
+    "nom" : "elmansouri",
+    "prenom" : "said",
+    "calendar" : 1589587200000,
+    "agence" : {
+      "adresse" : "Maroc,Casa",
+      "nom" : "agence casa",
+      "numero" : 1,
+      "bq" : { },
+      "employes" : null
+    },
+    "personid" : 2
+  },
+  "agence" : {
+    "adresse" : "Maroc,Casa",
+    "nom" : "agence casa",
+    "numero" : 1,
+    "bq" : { },
+    "employes" : null
+  },
+  "tauxInteret" : 4.0,
+  "compteid" : 1
+} ]

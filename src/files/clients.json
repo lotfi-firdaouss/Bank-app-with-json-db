@@ -1,0 +1,21 @@
+[ {
+  "nom" : "LOLO",
+  "prenom" : "FIFI",
+  "adresse" : "FFFFFF",
+  "personid" : 1
+}, {
+  "nom" : "lotif",
+  "prenom" : "fffff",
+  "adresse" : "iiiiiiiiii",
+  "personid" : 3
+}, {
+  "nom" : "eeeeeeeeeee",
+  "prenom" : "aaaaaaaaaaaa",
+  "adresse" : "acccccccccccccccc",
+  "personid" : 5
+}, {
+  "nom" : "lotfi",
+  "prenom" : "firdaouss",
+  "adresse" : "casa",
+  "personid" : 6
+} ]

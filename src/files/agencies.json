@@ -1,0 +1,43 @@
+[ {
+  "adresse" : "Maroc,Casa",
+  "nom" : "agence casa",
+  "numero" : 1,
+  "bq" : { },
+  "employes" : null
+}, {
+  "adresse" : "Maroc,Fez",
+  "nom" : "agence fez",
+  "numero" : 2,
+  "bq" : { },
+  "employes" : null
+}, {
+  "adresse" : "Maroc,Rabat",
+  "nom" : "agence rabat",
+  "numero" : 3,
+  "bq" : { },
+  "employes" : null
+}, {
+  "adresse" : "Maroc,Berrechid",
+  "nom" : "agence berrechid",
+  "numero" : 4,
+  "bq" : { },
+  "employes" : null
+}, {
+  "adresse" : "MAroc,Tanger",
+  "nom" : "agence tanger",
+  "numero" : 5,
+  "bq" : { },
+  "employes" : null
+}, {
+  "adresse" : "Maroc,Eljadida",
+  "nom" : "agence eljadida",
+  "numero" : 6,
+  "bq" : { },
+  "employes" : null
+}, {
+  "adresse" : "Maroc,Chaouen",
+  "nom" : "agence chaouen",
+  "numero" : 7,
+  "bq" : { },
+  "employes" : null
+} ]
